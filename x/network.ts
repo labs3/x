@@ -39,7 +39,7 @@ export interface StacksNetwork {
 export class StacksMainnet implements StacksNetwork {
   version = TransactionVersion.Mainnet;
   chainId = ChainID.Mainnet;
-  coreApiUrl = 'https://mainnet.mtavr.se';
+  coreApiUrl = 'https://stacks-node-api.mainnet.stacks.co';
   // TODO: change this when mainnet is live. BNS endpoints are not live yet.
   bnsLookupUrl = 'https://core.blockstack.org';
   broadcastEndpoint = '/v2/transactions';
