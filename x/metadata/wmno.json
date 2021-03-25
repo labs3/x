@@ -1,18 +1,5 @@
 {
-  "title": "Asset Metadata",
-  "type": "object",
-  "properties": {
-    "name": {
-      "type": "string",
-      "description": "Wrapped Nothing"
-    },
-    "description": {
-      "type": "string",
-      "description": "A wrapped version of Nothing from nothingtoken.com"
-    },
-    "image": {
-      "type": "string",
-      "description": "https://x.mtavr.se/ftimg/wmno_tokenlogo_01_500x500_(official).png"
-    }
-  }
+    "name": "Wrapped Nothing",
+    "description": "A wrapped version of Nothing from nothingtoken.com",
+    "image": "https://x.mtavr.se/ftimg/wmno.png"
 }
