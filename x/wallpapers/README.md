@@ -1,5 +1,3 @@
-# Nothingtoken_wallpapers
-
 # Nothingtoken.com Wallpapers
 
 We understand that an empty desk(top) is a sign of a sick mind… so it is better to put Nothing on it instead. Here are some of our favorite 4K desktops, click the previews below to download full size desktop backgrounds. Have fun!
