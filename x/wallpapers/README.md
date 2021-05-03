@@ -32,4 +32,8 @@ For those of you who think the Nothing logo’s above are to much *in your face*
 
 ![https://x.mtavr.se/wallpapers/nothing_wallpaper_10_4k_textlogo_more_nothing_black_bg_labs3.jpg](https://x.mtavr.se/wallpapers/nothing_wallpaper_10_4k_textlogo_more_nothing_black_bg_labs3.jpg)
 
+![nothing_wallpaper_11_4k_textlogo_more_nothing_black_bg_syvita.png](nothing_wallpaper_11_4k_textlogo_more_nothing_black_bg_syvita.png)
+
+![nothing_wallpaper_12_4k_textlogo_more_nothing_black_bg_syvita.png](nothing_wallpaper_12_4k_textlogo_more_nothing_black_bg_syvita.png)
+
 www.nothingtoken.com
