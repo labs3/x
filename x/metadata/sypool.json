@@ -1,0 +1,6 @@
+{
+    "name": "Sypool",
+    "description": "A tokenised representation of a satoshi from Syvita's mining pool.",
+    "image": "https://x.syvita.org/ftimg/sypool@1x.png",
+    "ticker": "SYPL"
+}
